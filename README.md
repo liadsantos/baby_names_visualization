@@ -6,3 +6,4 @@ We work with the data set "baby_names", that contains the list of all baby names
 -  Giulia MANNAIOLI
 -  Lais Isabelle ALVES DOS SANTOS
 -  Pedro ANDRADE FERREIRA SOBRINHO
+-  Rafael SENNA BENATTI
