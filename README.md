@@ -7,3 +7,10 @@ We work with the data set "baby_names", that contains the list of all baby names
 -  Lais Isabelle ALVES DOS SANTOS
 -  Pedro ANDRADE FERREIRA SOBRINHO
 -  Rafael SENNA BENATTI
+
+## How the project is organized 
+
+The project is composed of two jupyter notebooks, `visualization_notebook.ipynb`, which contains the sketches and the descriptions of each one for each visualization, and `notebook.ipynb`, which is composed of the implementations of the visualization the group chose to do. To run the project, one must have installed the following libraries:
+
+- Altair: use the features of the library to create the visualization
+- Pandas: load and pre-process the dataset
