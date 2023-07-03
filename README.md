@@ -19,8 +19,14 @@ As the altair render does not work entirely well on github, since it is run on J
 
 ## What you will find
 
-### Visualization of baby names evolution over time
+- Visualization of baby names evolution over time in different perspectives
 
-### Visualization of baby names according to regions in France
+![image](https://github.com/liadsantos/baby_names_visualization/assets/115878785/2081b4f6-ffb5-4c9f-96bb-7ef57b3157b7)
 
-### Visualization of baby names analysing gender effects
+- Visualization of baby names according to regions in France
+
+![image](https://github.com/liadsantos/baby_names_visualization/assets/115878785/98c7f8f9-f62f-4cc9-a354-6b9f847377c9)
+
+- Visualization of baby names analysing gender effects
+
+![image](https://github.com/liadsantos/baby_names_visualization/assets/115878785/8f93f42f-d1a0-4c4f-b993-972b16d70468)
