@@ -16,3 +16,11 @@ The project is composed of two jupyter notebooks, `visualization_notebook.ipynb`
 - Pandas: load and pre-process the dataset
 
 As the altair render does not work entirely well on github, since it is run on Javascript, the visualizations can only be seen if the project is downloaded and run (it does not work on Google Colab).
+
+## What you will find
+
+### Visualization of baby names evolution over time
+
+### Visualization of baby names according to regions in France
+
+### Visualization of baby names analysing gender effects
