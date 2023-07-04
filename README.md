@@ -8,6 +8,11 @@ We work with the data set "baby_names", that contains the list of all baby names
 -  Pedro ANDRADE FERREIRA SOBRINHO
 -  Rafael SENNA BENATTI
 
+## Dataset 
+
+- The map of france is provided by https://github.com/deldersveld/topojson/blob/master/countries/france/fr-departments.json
+- The names of regions in France is provided by https://www.data.gouv.fr/en/datasets/departements-et-leurs-regions/
+
 ## How the project is organized 
 
 The project is composed of two jupyter notebooks, `sketches.ipynb`, which contains the sketches and the descriptions of each one for each visualization, and `implementations.ipynb`, which is composed of the implementations of the visualization the group chose to do. To run the project, one must have installed the following libraries:
