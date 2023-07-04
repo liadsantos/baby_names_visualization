@@ -25,7 +25,7 @@ As the altair render does not work entirely well on github, since it is run on J
 
 - Visualization of baby names according to regions in France
 
-![image](https://github.com/liadsantos/baby_names_visualization/assets/115878785/98c7f8f9-f62f-4cc9-a354-6b9f847377c9)
+![image](https://github.com/liadsantos/baby_names_visualization/assets/115878785/b5026850-dad3-4344-bd6f-ed91f9628232)
 
 - Visualization of baby names analysing gender effects
 
